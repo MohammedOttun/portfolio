@@ -183,7 +183,7 @@ main {
 }
 
 .flex-item div {
-    background-color: var(--secondary);
+    background-color: var(--dark-byzantium);
     padding: 8px 10px;
 }
 
@@ -238,7 +238,7 @@ main {
     background-image: url("../images/smile_dental.jpg");
 }
 
-.houston-chronicle {
+.hearst-newspapers {
     background-image: url("../images/houston_chronicle.jpg");
 }
 
