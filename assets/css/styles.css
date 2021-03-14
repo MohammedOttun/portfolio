@@ -56,15 +56,12 @@ nav {
     flex-wrap: wrap;
 }
 
-
-/* ----------------------------------------------- */
-
 nav a {
     text-decoration: none;
     padding: 5px 10px;
     color: var(--thistle);
     margin-right: 10px;
-    background-image: linear-gradient(270deg, var(--secondary) 0%, var(--secondary) 100%);
+    /* background-image: linear-gradient(180deg, var(--black) 0%, var(--chinese-violet) 100%); */
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: bottom;
@@ -74,7 +71,7 @@ nav a {
 
 nav a:hover {
     background-size: 100% 100%;
-    color: var(--dark-byzantium);
+    color: var(--snow);
 }
 
 nav a:last-child {
@@ -263,6 +260,7 @@ main {
     .page-section>h2,
     .page-section>div {
         flex: 0 0 100%;
+        padding: 2%;
     }
     .page-section>h2 {
         border-right: none;
@@ -292,5 +290,3 @@ main {
     }
 }
 
-
-/* ----------------------------------------------- */
