@@ -61,7 +61,6 @@ nav a {
     padding: 5px 10px;
     color: var(--thistle);
     margin-right: 10px;
-    /* background-image: linear-gradient(180deg, var(--black) 0%, var(--chinese-violet) 100%); */
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: bottom;
@@ -101,8 +100,8 @@ main {
 }
 
 .banner h2 {
-    background-color: var(--secondary);
-    color: var(--tertiary);
+    background-color: var(--chinese-violet);
+    color: var(--thistle);
     margin: 0;
     padding: 5px 10px;
     font-size: 2.3rem;
